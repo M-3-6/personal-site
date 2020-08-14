@@ -1,0 +1,17 @@
+h1{
+  color: red;
+}
+img{
+  background-color: red;
+}
+.veg{
+  background-color: green;
+  height: 160px;
+  width: 160px;
+}
+.circular{
+  border-radius: 100%;
+}
+img:hover{
+  background-color: gold;
+}
